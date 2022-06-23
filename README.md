@@ -101,7 +101,7 @@
 <a href="https://www.facebook.com/Sekaiichii" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://instagram.com/sekaiichii" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/9110385/Мехрубон-Хусайнов" target="_blank">
@@ -117,21 +117,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sekaiichi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
